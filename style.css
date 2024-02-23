@@ -1,0 +1,36 @@
+html {
+  background-image: url(img/tech-background.webp);
+  background-size: cover;
+}
+/* Centered Fixed Width Content (width 600px, top-margin: 25px, padding: 25px (top) 150px (left&right) 50px (bottom)) */
+body {
+  background-color: white;
+  border: solid;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  letter-spacing: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h2 {
+  color: #f15c2a;
+  letter-spacing: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h3 {
+  color: #1774bb;
+}
+
+h4 {
+  color: #fcb041;
+}
+
+.middle {
+  text-align: center;
+}
